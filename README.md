@@ -1,4 +1,5 @@
 ### Hi there 👋
 
 - 📃 I’m currently learning php
-- 🚬 Discord: Castellano#
+- 🚬 Discord: Castellano#8609
+
