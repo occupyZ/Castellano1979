@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 📃 I’m currently ...
-
 -👻 Discord: Castellano#8017
 
 
